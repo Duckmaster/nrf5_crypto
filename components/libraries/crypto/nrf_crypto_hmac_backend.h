@@ -57,8 +57,6 @@
 #include "sdk_common.h"
 #include "nrf_crypto_hmac_shared.h"
 #include "mbedtls_backend_hmac.h"
-#include "cc310_backend_hmac.h"
-#include "oberon_backend_hmac.h"
 
 #ifdef __cplusplus
 extern "C" {

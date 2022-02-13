@@ -41,11 +41,8 @@
 #ifndef NRF_CRYPTO_AEAD_BACKEND_H__
 #define NRF_CRYPTO_AEAD_BACKEND_H__
 
-#include "cc310_backend_aes_aead.h"
-#include "cc310_backend_chacha_poly_aead.h"
 #include "cifra_backend_aes_aead.h"
 #include "mbedtls_backend_aes_aead.h"
-#include "oberon_backend_chacha_poly_aead.h"
 
 #ifdef __cplusplus
 extern "C" {

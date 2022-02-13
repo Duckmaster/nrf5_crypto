@@ -41,7 +41,6 @@
 #ifndef NRF_CRYPTO_AES_BACKEND_H__
 #define NRF_CRYPTO_AES_BACKEND_H__
 
-#include "cc310_backend_aes.h"
 #include "mbedtls_backend_aes.h"
 
 #ifdef __cplusplus
